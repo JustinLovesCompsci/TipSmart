@@ -10,22 +10,26 @@
 	<string>TipSmart</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>424B4150954097DD2937495E9B28BA127DB905D2</key>
+		<string>https://github.com/JustinLovesCompsci/TipSmart</string>
 		<key>BFA5E54A8E3E4780E612C4D4FB4DC18030314D09</key>
 		<string>https://bitbucket.org/JustinLovesCompsci/tipsmart.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>TipSmart/TipSmart.xcodeproj</string>
+	<string>TipSmart.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+		<key>424B4150954097DD2937495E9B28BA127DB905D2</key>
+		<string>../..</string>
 		<key>BFA5E54A8E3E4780E612C4D4FB4DC18030314D09</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://bitbucket.org/JustinLovesCompsci/tipsmart.git</string>
+	<string>https://github.com/JustinLovesCompsci/TipSmart</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>BFA5E54A8E3E4780E612C4D4FB4DC18030314D09</string>
+	<string>424B4150954097DD2937495E9B28BA127DB905D2</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -34,7 +38,15 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>BFA5E54A8E3E4780E612C4D4FB4DC18030314D09</string>
 			<key>IDESourceControlWCCName</key>
-			<string>tipsmart</string>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>424B4150954097DD2937495E9B28BA127DB905D2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TipSmart</string>
 		</dict>
 	</array>
 </dict>
