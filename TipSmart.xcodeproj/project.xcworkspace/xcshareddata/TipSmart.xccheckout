@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CF22D894-A98E-4156-B254-037D51CFFE26</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TipSmart</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BFA5E54A8E3E4780E612C4D4FB4DC18030314D09</key>
+		<string>https://bitbucket.org/JustinLovesCompsci/tipsmart.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TipSmart/TipSmart.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BFA5E54A8E3E4780E612C4D4FB4DC18030314D09</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/JustinLovesCompsci/tipsmart.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BFA5E54A8E3E4780E612C4D4FB4DC18030314D09</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BFA5E54A8E3E4780E612C4D4FB4DC18030314D09</string>
+			<key>IDESourceControlWCCName</key>
+			<string>tipsmart</string>
+		</dict>
+	</array>
+</dict>
+</plist>
